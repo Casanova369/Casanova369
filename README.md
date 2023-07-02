@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Casanova369/Casanova369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey, Casanova369 <img src="hand.webp" alt="Waving Hand" width="25" height="25">
+I like programming, especially in System 
+Languages. I don't do coding as a job, for now.
+I use arch linux btw. 
+
+### Here are my stats <img src="rocket.webp" alt="Rocket" width="25" height="25">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=casanova369)](https://github.com/anuraghazra/github-readme-stats)
+
+### My skills <img src="muscle.webp" alt="Muscle" width="25" height="25">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,python)](https://skillicons.dev)
